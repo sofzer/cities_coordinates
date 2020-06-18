@@ -6,11 +6,12 @@ Home-page: https://github.com/sofzer/cities_coordinates
 Author: Sofiene  Memmi
 Author-email: sofiene.memmi@gmail.com
 License: UNKNOWN
-Download-URL: https://github.com/user/reponame/archive/v_01.tar.gz
 Description: # Cities coordinates
         
         cities_coordinates is a python package that helps to identify cities' coordinations arround the 
         ### Installation
+        
+        See [pypi](https://pypi.org/project/cities-coordinates/), [Github](https://github.com/sofzer/cities_coordinates)
         
         cities_coordinates python and pip to be installed.
         
