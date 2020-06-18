@@ -1,4 +1,4 @@
-Metadata-Version: 1.1
+Metadata-Version: 2.1
 Name: cities-coordinates
 Version: 0.1
 Summary: A city coordinator package. The goal behind this package is to map cities arround the world with their coordinations without any need for an internet connection
@@ -41,3 +41,4 @@ Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
