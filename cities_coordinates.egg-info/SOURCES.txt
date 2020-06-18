@@ -1,0 +1,8 @@
+README.md
+setup.py
+cities_coordinates/__init__.py
+cities_coordinates/cities_coordinates.py
+cities_coordinates.egg-info/PKG-INFO
+cities_coordinates.egg-info/SOURCES.txt
+cities_coordinates.egg-info/dependency_links.txt
+cities_coordinates.egg-info/top_level.txt

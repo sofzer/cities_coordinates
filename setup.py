@@ -1,17 +1,18 @@
 
 import setuptools
+
 with open("README.md", "r") as fh:
     long_description = fh.read()
+
 setuptools.setup(
-     name='dokr',  
+     name='cities_coordinates',  
      version='0.1',
-     scripts=['dokr'] ,
-     author="Deepak Kumar",
-     author_email="deepak.kumar.iet@gmail.com",
-     description="A Docker and AWS utility package",
+     scripts=['cities_coordinates/__init__.py'] ,
+     author="Sofiene  Memmi",
+     author_email="sofiene.memmi@gmail.com",
+     description="A city coordinator package. The goal behind this package is to map cities arround the world with their coordinations without any need for an internet connection",
      long_description=long_description,
-   long_description_content_type="text/markdown",
-     url="https://github.com/javatechy/dokr",
+     url="https://github.com/sofzer/cities_coordinates",
      packages=setuptools.find_packages(),
      classifiers=[
          "Programming Language :: Python :: 3",
