@@ -12,7 +12,9 @@ setuptools.setup(
      author_email="sofiene.memmi@gmail.com",
      description="A city coordinator package. The goal behind this package is to map cities arround the world with their coordinations without any need for an internet connection",
      long_description=long_description,
+     long_description_content_type="text/markdown",
      url="https://github.com/sofzer/cities_coordinates",
+     download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz'
      packages=setuptools.find_packages(),
      classifiers=[
          "Programming Language :: Python :: 3",
