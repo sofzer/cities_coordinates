@@ -3,6 +3,8 @@
 cities_coordinates is a python package that helps to identify cities' coordinations arround the 
 ### Installation
 
+See [pypi](https://pypi.org/project/cities-coordinates/), [Github](https://github.com/sofzer/cities_coordinates)
+
 cities_coordinates python and pip to be installed.
 
 In order to install the plugin, run the following command:

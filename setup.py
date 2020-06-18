@@ -14,7 +14,7 @@ setuptools.setup(
      long_description=long_description,
      long_description_content_type="text/markdown",
      url="https://github.com/sofzer/cities_coordinates",
-     download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz'
+     download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',
      packages=setuptools.find_packages(),
      classifiers=[
          "Programming Language :: Python :: 3",
